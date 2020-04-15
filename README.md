@@ -1,7 +1,7 @@
 # Applied Regression Analysis
 
-[toc]
-
+* TOC 
+{:toc} 
 ## Read in csv files
 
 - Set working directory that contains the interested csv file
